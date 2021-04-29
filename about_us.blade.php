@@ -11,7 +11,7 @@
     <!--services2 second conatiner our process of work is here-->
     <div class="container-xl">
         <!-- About us div -->
-        <div class="container-fluid"> you can go to the command lines ther are others too
+        <div class="container-fluid"> you can go to the command lines ther are others too pushing to the origions
             <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="2000" id="AOS_lib">
                 <div class="col-lg-12 col-sm-12 col-md-12">
                     <div class="row">
